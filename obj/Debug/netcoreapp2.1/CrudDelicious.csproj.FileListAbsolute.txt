@@ -1,0 +1,87 @@
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/CrudDelicious/bin/Debug/netcoreapp2.1/CrudDelicious.deps.json
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/CrudDelicious/bin/Debug/netcoreapp2.1/CrudDelicious.runtimeconfig.json
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/CrudDelicious/bin/Debug/netcoreapp2.1/CrudDelicious.runtimeconfig.dev.json
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/CrudDelicious/bin/Debug/netcoreapp2.1/CrudDelicious.dll
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/CrudDelicious/bin/Debug/netcoreapp2.1/CrudDelicious.pdb
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/CrudDelicious/bin/Debug/netcoreapp2.1/CrudDelicious.Views.dll
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/CrudDelicious/bin/Debug/netcoreapp2.1/CrudDelicious.Views.pdb
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/CrudDelicious/obj/Debug/netcoreapp2.1/CrudDelicious.csprojAssemblyReference.cache
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/CrudDelicious/obj/Debug/netcoreapp2.1/CrudDelicious.csproj.CoreCompileInputs.cache
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/CrudDelicious/obj/Debug/netcoreapp2.1/CrudDelicious.RazorAssemblyInfo.cache
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/CrudDelicious/obj/Debug/netcoreapp2.1/CrudDelicious.RazorAssemblyInfo.cs
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/CrudDelicious/obj/Debug/netcoreapp2.1/CrudDelicious.AssemblyInfoInputs.cache
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/CrudDelicious/obj/Debug/netcoreapp2.1/CrudDelicious.AssemblyInfo.cs
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/CrudDelicious/obj/Debug/netcoreapp2.1/CrudDelicious.TagHelpers.input.cache
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/CrudDelicious/obj/Debug/netcoreapp2.1/CrudDelicious.TagHelpers.output.cache
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/CrudDelicious/obj/Debug/netcoreapp2.1/CrudDelicious.RazorCoreGenerate.cache
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/CrudDelicious/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/CrudDelicious/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/CrudDelicious/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/CrudDelicious/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/CrudDelicious/obj/Debug/netcoreapp2.1/CrudDelicious.RazorTargetAssemblyInfo.cache
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/CrudDelicious/obj/Debug/netcoreapp2.1/CrudDelicious.RazorTargetAssemblyInfo.cs
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/CrudDelicious/obj/Debug/netcoreapp2.1/CrudDelicious.Views.pdb
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/CrudDelicious/obj/Debug/netcoreapp2.1/CrudDelicious.dll
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/CrudDelicious/obj/Debug/netcoreapp2.1/CrudDelicious.pdb
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/CrudDelicious/obj/Debug/netcoreapp2.1/CrudDelicious.csproj.CopyComplete
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/CrudDelicious/obj/Debug/netcoreapp2.1/Razor/Views/Home/AddNew.g.cshtml.cs
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/CrudDelicious/obj/Debug/netcoreapp2.1/Razor/Views/Home/Edit.g.cshtml.cs
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/CrudDelicious/obj/Debug/netcoreapp2.1/Razor/Views/Home/ViewOne.g.cshtml.cs
+/Users/work/Desktop/C#/EntityFiles/CRUD_Abi/bin/Debug/netcoreapp2.1/CrudDelicious.deps.json
+/Users/work/Desktop/C#/EntityFiles/CRUD_Abi/bin/Debug/netcoreapp2.1/CrudDelicious.runtimeconfig.json
+/Users/work/Desktop/C#/EntityFiles/CRUD_Abi/bin/Debug/netcoreapp2.1/CrudDelicious.runtimeconfig.dev.json
+/Users/work/Desktop/C#/EntityFiles/CRUD_Abi/bin/Debug/netcoreapp2.1/CrudDelicious.dll
+/Users/work/Desktop/C#/EntityFiles/CRUD_Abi/bin/Debug/netcoreapp2.1/CrudDelicious.pdb
+/Users/work/Desktop/C#/EntityFiles/CRUD_Abi/bin/Debug/netcoreapp2.1/CrudDelicious.Views.dll
+/Users/work/Desktop/C#/EntityFiles/CRUD_Abi/bin/Debug/netcoreapp2.1/CrudDelicious.Views.pdb
+/Users/work/Desktop/C#/EntityFiles/CRUD_Abi/obj/Debug/netcoreapp2.1/CrudDelicious.csprojAssemblyReference.cache
+/Users/work/Desktop/C#/EntityFiles/CRUD_Abi/obj/Debug/netcoreapp2.1/CrudDelicious.csproj.CoreCompileInputs.cache
+/Users/work/Desktop/C#/EntityFiles/CRUD_Abi/obj/Debug/netcoreapp2.1/CrudDelicious.RazorAssemblyInfo.cache
+/Users/work/Desktop/C#/EntityFiles/CRUD_Abi/obj/Debug/netcoreapp2.1/CrudDelicious.RazorAssemblyInfo.cs
+/Users/work/Desktop/C#/EntityFiles/CRUD_Abi/obj/Debug/netcoreapp2.1/CrudDelicious.AssemblyInfoInputs.cache
+/Users/work/Desktop/C#/EntityFiles/CRUD_Abi/obj/Debug/netcoreapp2.1/CrudDelicious.AssemblyInfo.cs
+/Users/work/Desktop/C#/EntityFiles/CRUD_Abi/obj/Debug/netcoreapp2.1/CrudDelicious.TagHelpers.input.cache
+/Users/work/Desktop/C#/EntityFiles/CRUD_Abi/obj/Debug/netcoreapp2.1/CrudDelicious.TagHelpers.output.cache
+/Users/work/Desktop/C#/EntityFiles/CRUD_Abi/obj/Debug/netcoreapp2.1/CrudDelicious.RazorCoreGenerate.cache
+/Users/work/Desktop/C#/EntityFiles/CRUD_Abi/obj/Debug/netcoreapp2.1/Razor/Views/Home/AddNew.g.cshtml.cs
+/Users/work/Desktop/C#/EntityFiles/CRUD_Abi/obj/Debug/netcoreapp2.1/Razor/Views/Home/Edit.g.cshtml.cs
+/Users/work/Desktop/C#/EntityFiles/CRUD_Abi/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+/Users/work/Desktop/C#/EntityFiles/CRUD_Abi/obj/Debug/netcoreapp2.1/Razor/Views/Home/ViewOne.g.cshtml.cs
+/Users/work/Desktop/C#/EntityFiles/CRUD_Abi/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/work/Desktop/C#/EntityFiles/CRUD_Abi/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/work/Desktop/C#/EntityFiles/CRUD_Abi/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/work/Desktop/C#/EntityFiles/CRUD_Abi/obj/Debug/netcoreapp2.1/CrudDelicious.RazorTargetAssemblyInfo.cache
+/Users/work/Desktop/C#/EntityFiles/CRUD_Abi/obj/Debug/netcoreapp2.1/CrudDelicious.RazorTargetAssemblyInfo.cs
+/Users/work/Desktop/C#/EntityFiles/CRUD_Abi/obj/Debug/netcoreapp2.1/CrudDelicious.Views.pdb
+/Users/work/Desktop/C#/EntityFiles/CRUD_Abi/obj/Debug/netcoreapp2.1/CrudDelicious.dll
+/Users/work/Desktop/C#/EntityFiles/CRUD_Abi/obj/Debug/netcoreapp2.1/CrudDelicious.pdb
+/Users/work/Desktop/C#/EntityFiles/CRUD_Abi/obj/Debug/netcoreapp2.1/CrudDelicious.csproj.CopyComplete
+/Users/work/Desktop/C#/EntityFiles/CRUD_Delicious/bin/Debug/netcoreapp2.1/CrudDelicious.deps.json
+/Users/work/Desktop/C#/EntityFiles/CRUD_Delicious/bin/Debug/netcoreapp2.1/CrudDelicious.runtimeconfig.json
+/Users/work/Desktop/C#/EntityFiles/CRUD_Delicious/bin/Debug/netcoreapp2.1/CrudDelicious.runtimeconfig.dev.json
+/Users/work/Desktop/C#/EntityFiles/CRUD_Delicious/bin/Debug/netcoreapp2.1/CrudDelicious.dll
+/Users/work/Desktop/C#/EntityFiles/CRUD_Delicious/bin/Debug/netcoreapp2.1/CrudDelicious.pdb
+/Users/work/Desktop/C#/EntityFiles/CRUD_Delicious/bin/Debug/netcoreapp2.1/CrudDelicious.Views.dll
+/Users/work/Desktop/C#/EntityFiles/CRUD_Delicious/bin/Debug/netcoreapp2.1/CrudDelicious.Views.pdb
+/Users/work/Desktop/C#/EntityFiles/CRUD_Delicious/obj/Debug/netcoreapp2.1/CrudDelicious.csprojAssemblyReference.cache
+/Users/work/Desktop/C#/EntityFiles/CRUD_Delicious/obj/Debug/netcoreapp2.1/CrudDelicious.csproj.CoreCompileInputs.cache
+/Users/work/Desktop/C#/EntityFiles/CRUD_Delicious/obj/Debug/netcoreapp2.1/CrudDelicious.RazorAssemblyInfo.cache
+/Users/work/Desktop/C#/EntityFiles/CRUD_Delicious/obj/Debug/netcoreapp2.1/CrudDelicious.RazorAssemblyInfo.cs
+/Users/work/Desktop/C#/EntityFiles/CRUD_Delicious/obj/Debug/netcoreapp2.1/CrudDelicious.AssemblyInfoInputs.cache
+/Users/work/Desktop/C#/EntityFiles/CRUD_Delicious/obj/Debug/netcoreapp2.1/CrudDelicious.AssemblyInfo.cs
+/Users/work/Desktop/C#/EntityFiles/CRUD_Delicious/obj/Debug/netcoreapp2.1/CrudDelicious.TagHelpers.input.cache
+/Users/work/Desktop/C#/EntityFiles/CRUD_Delicious/obj/Debug/netcoreapp2.1/CrudDelicious.TagHelpers.output.cache
+/Users/work/Desktop/C#/EntityFiles/CRUD_Delicious/obj/Debug/netcoreapp2.1/CrudDelicious.RazorCoreGenerate.cache
+/Users/work/Desktop/C#/EntityFiles/CRUD_Delicious/obj/Debug/netcoreapp2.1/Razor/Views/Home/AddNew.g.cshtml.cs
+/Users/work/Desktop/C#/EntityFiles/CRUD_Delicious/obj/Debug/netcoreapp2.1/Razor/Views/Home/Edit.g.cshtml.cs
+/Users/work/Desktop/C#/EntityFiles/CRUD_Delicious/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+/Users/work/Desktop/C#/EntityFiles/CRUD_Delicious/obj/Debug/netcoreapp2.1/Razor/Views/Home/ViewOne.g.cshtml.cs
+/Users/work/Desktop/C#/EntityFiles/CRUD_Delicious/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/work/Desktop/C#/EntityFiles/CRUD_Delicious/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/work/Desktop/C#/EntityFiles/CRUD_Delicious/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/work/Desktop/C#/EntityFiles/CRUD_Delicious/obj/Debug/netcoreapp2.1/CrudDelicious.RazorTargetAssemblyInfo.cache
+/Users/work/Desktop/C#/EntityFiles/CRUD_Delicious/obj/Debug/netcoreapp2.1/CrudDelicious.RazorTargetAssemblyInfo.cs
+/Users/work/Desktop/C#/EntityFiles/CRUD_Delicious/obj/Debug/netcoreapp2.1/CrudDelicious.Views.pdb
+/Users/work/Desktop/C#/EntityFiles/CRUD_Delicious/obj/Debug/netcoreapp2.1/CrudDelicious.dll
+/Users/work/Desktop/C#/EntityFiles/CRUD_Delicious/obj/Debug/netcoreapp2.1/CrudDelicious.pdb
+/Users/work/Desktop/C#/EntityFiles/CRUD_Delicious/obj/Debug/netcoreapp2.1/CrudDelicious.csproj.CopyComplete

@@ -1,0 +1,20 @@
+﻿@using CrudDelicious.Models;
+@model List<Dish>
+
+<h1>Welcome to CRUDelicious</h1>
+
+<p>Check out some recent dishes!</p>
+
+<a class='btn btn-secondary' href="/AddNew">Add a Dish!</a>
+
+
+
+@{
+    foreach(var user in Model){
+        <p><a href="/view/@user.Id">@user.ChefName @user.DishName @user.Calories @user.Tastiness @user.Descriptions</p>
+    }
+}
+
+
+
+
